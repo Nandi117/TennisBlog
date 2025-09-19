@@ -52,3 +52,5 @@ blog tábla:
 tipus tábla:
 - tipus_id
 - tipus_nev
+
+## UI terv
